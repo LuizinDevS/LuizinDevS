@@ -18,6 +18,7 @@
   <img align="center" alt="Luiz-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-MySQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luiz-SQLServer" height="50" width="60" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon"/>
+      <img align="center" alt="Luiz-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git Library Icon"/>
 </div>
 
 <!--FOTO DO README-->
