@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo ao meu perfil👋
 
-- 🎓 Meu nome é Luiz Otávio, tenho 19 anos, sou Técnico em Desenvolvimento de Sistemas pelo SENAI e estou cursando Análise e Desenvolvimento de Sistemas pela UNINTER.
-- 
+- 🎓 Meu nome é Luiz Otávio, tenho 19 anos, sou Técnico em Desenvolvimento de Sistemas pelo SENAI e estou cursando Análise e         
+      Desenvolvimento de Sistemas pela UNINTER
 - 🕵️‍♂️ Atualmente trabalho como Analista de Testes de Software / QA Trainee na Praxio By NSTech
 - 📖 Gosto bastante da área de tecnologia, principalmente programação e pretendo me tornar um desenvolvedor Back-end / FullStack
 - 📌 Neste perfil, estão alguns dos projetos que realizei
