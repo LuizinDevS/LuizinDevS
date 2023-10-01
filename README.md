@@ -2,7 +2,7 @@
 
 - 🎓 Meu nome é Luiz Otávio, tenho 20 anos, sou Técnico em Desenvolvimento de Sistemas pelo SENAI e estou cursando Análise e Desenvolvimento de Sistemas pela UNINTER
 - 🕵️‍♂️ Atualmente trabalho como Analista de Sistemas Trainee na Praxio By NSTech
-- 📖 Gosto bastante da área de tecnologia, principalmente programação e pretendo me tornar um desenvolvedor Back-end / FullStack
+- 📖 Gosto bastante da área de tecnologia, principalmente programação
 - 📌 Neste perfil, estão alguns dos projetos que realizei
 
 ## Já tive contato com as seguintes tecnologias:
