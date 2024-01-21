@@ -1,20 +1,19 @@
 ## Olá, seja bem vindo ao meu perfil👋
 
-- 🎓 Meu nome é Luiz Otávio, tenho 20 anos, sou Técnico em Desenvolvimento de Sistemas formado pelo SENAI e estou cursando Análise e Desenvolvimento de Sistemas pela UNINTER
+- 🎓 Meu nome é Luiz Otávio, tenho 20 anos, sou Técnico em Desenvolvimento de Sistemas formado pelo SENAI e estou cursando Análise e Desenvolvimento de Sistemas na UNINTER
 - 🕵️‍♂️ Atualmente trabalho como Analista de Sistemas Trainee na Praxio By NSTech
-- 📖 Gosto bastante da área de tecnologia, principalmente programação
+- :computer: Gosto bastante da área de tecnologia, principalmente programação
 - 📌 Neste perfil, estão alguns dos projetos que eu já desenvolvi ou ainda estou desenvolvendo
 
 ## Algumas das tecnolgias que já tive contato:
-<div name="container_tecnologias_usadas"  style="display: inline_block" color="">
-  
+<div name="container_tecnologias_usadas"  style="display: inline_block" color="">  
   <img align="center" alt="C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MySQL" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="SQLServer" height="50" width="60" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon"/>
+  <img align="center" alt="SQL Server" height="50" width="60" src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="350" alt="Sql Server Library Icon"/>
   <img align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git Library Icon"/>
 </div>
 
